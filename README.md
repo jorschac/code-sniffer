@@ -1,5 +1,5 @@
 ## Introduction
-
+![sniffer](https://raw.githubusercontent.com/jorschac/assets/refs/heads/main/img-bed/code-sniffer.png)
 code-sniffer is an AI assistant pipeline designed for education purpose leveraging github actions and github classroom. The main purpose serves to detect latent AI-generated content in student's coding assignment and exams. By merging student's working branch to master/main, an action will be triggered with an organized report be sent later to instructor's mailbox
 
 This project is actively maintaining. Looking forward to any suggestions
