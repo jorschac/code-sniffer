@@ -10,7 +10,7 @@ WIP
 
 ## Flow and Architecture diagram
 
- WIP
+![ERD](https://raw.githubusercontent.com/jorschac/assets/refs/heads/main/img-bed/ERD.png)
  
 ## Project setup
 
